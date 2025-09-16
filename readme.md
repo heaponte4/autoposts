@@ -9,5 +9,8 @@ venv\Scripts\activate       # Windows
 # 3. Instalar dependencias
 pip install -r requirements.txt
 
-# 4. Correr el script
+# 4. Crear un archivo csv
+Crea un archivo .csv con las columnas "Pregunta" "Respuesta", añade las preguntas y respuestas en cada linea por cada imagen a crear.
+
+# 5. Correr el script
 python3 autoposts.py
